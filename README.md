@@ -36,7 +36,7 @@ Cada pasta contém arquivos `.py` nomeados com o número e título do problema c
 3. Execute o arquivo Python correspondente:
 
    ```bash
-   python3 1001 - extremamente basico.py
+   python3 "1001 - extremamente basico.py"
    ```
 
 ## 📚 Referências
