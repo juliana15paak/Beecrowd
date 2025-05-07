@@ -1,7 +1,7 @@
 
 # Beecrowd Python Solutions
 
-Este repositório contém soluções para os problemas da plataforma Beecrowd (anteriormente URI Online Judge), implementadas em Python. O objetivo é praticar e aprimorar habilidades em lógica de programação, algoritmos e estruturas de dados, além de servir como referência para outros estudantes e entusiastas da programação.
+Este repositório contém soluções para os problemas da plataforma Beecrowd (anteriormente URI Online Judge), implementadas em Python. O objetivo é praticar e aprimorar habilidades em lógica de programação, algoritmos e estruturas de dados para competições de programação, além de servir como referência para outros estudantes e entusiastas da programação.
 
 ## 📁 Estrutura do Repositório
 
@@ -36,7 +36,7 @@ Cada pasta contém arquivos `.py` nomeados com o número e título do problema c
 3. Execute o arquivo Python correspondente:
 
    ```bash
-   python3 1001.py
+   python3 1001 - extremamente basico.py
    ```
 
 ## 📚 Referências
