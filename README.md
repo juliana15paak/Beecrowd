@@ -44,9 +44,6 @@ Cada pasta contém arquivos `.py` nomeados com o número e título do problema c
 - [Beecrowd](https://www.beecrowd.com.br/)
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções ou novas soluções.
 
 ## 📄 Licença
 
